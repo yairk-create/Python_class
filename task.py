@@ -8,5 +8,3 @@ print (age    )
 
 print (age.index('"'))
 
-
-

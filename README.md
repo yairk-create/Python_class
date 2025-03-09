@@ -22,10 +22,13 @@ Each file in this repository corresponds to an individual homework practice.
 
 Below is a picture related to Python:
 
-![Python Image](path_to_your_image.png)
+![Python Image](pics/python.png)
 
 Replace the `path_to_your_image.png` with the correct path to your image file.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+com

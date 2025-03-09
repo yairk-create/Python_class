@@ -22,7 +22,7 @@ Each file in this repository corresponds to an individual homework practice.
 
 Below is a picture related to Python:
 
-![Python Image]/home/yair/Python_class/pics/python.png
+![Python Image](pics/python.png)
 
 Replace the `path_to_your_image.png` with the correct path to your image file.
 

@@ -18,7 +18,7 @@ Here you will find Python code examples, assignments, and exercises that help in
 
 Each file in this repository corresponds to an individual homework practice.
 
-## Image of Python
+### Image of Python
 
 ![Python Image](pics/python.png)
 

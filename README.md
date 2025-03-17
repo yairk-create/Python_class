@@ -20,11 +20,9 @@ Each file in this repository corresponds to an individual homework practice.
 
 ## Image of Python
 
-Below is a picture related to Python:
-
 ![Python Image](pics/python.png)
 
-Replace the `path_to_your_image.png` with the correct path to your image file.
+
 
 ## License
 
